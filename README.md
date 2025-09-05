@@ -29,7 +29,7 @@ Welcome! This repository is my personal record of learning Python and working to
 ---
 
 ## 🤝 Let’s Connect  
-- GitHub: [https://github.com/mohsinmani]  
+- GitHub: [https://github.com/mohsi-ds]  
 
 ---
 
