@@ -21,8 +21,8 @@ Welcome! This repository is my personal record of learning Python and working to
 
 ## 🗺 Roadmap
 - [x] Python fundamentals  
-- [ ] NumPy & Pandas (data wrangling)  
-- [ ] Data visualization (Matplotlib/Seaborn)  
+- [x] NumPy & Pandas (data wrangling)  
+- [x] Data visualization (Matplotlib/Seaborn)  
 - [ ] Machine learning with Scikit-learn  
 - [ ] Deep learning with PyTorch/TensorFlow  
 
